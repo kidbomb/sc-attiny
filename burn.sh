@@ -1,0 +1,1 @@
+avrdude -pattiny85 -cusbtiny -Uflash:w:"sc_attiny.hex":i -U lfuse:w:0xc2:m -U hfuse:w:0xdf:m -U efuse:w:0xff:m
