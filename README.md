@@ -8,6 +8,7 @@ Connections:
 
  Currently it can only generate an ATR
 
+To build, use the "make build" command. Then, use the "burn.sh" script to write the firmware to your attiny85
+
 TODO:
- * use makefile
  * add support to send and receive APDUs
